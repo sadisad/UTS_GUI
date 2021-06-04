@@ -13,14 +13,14 @@ Edit Data
 
 Ganti Nama dan Jurusan
 
-![enter image description here](https://i.ibb.co/48k9njz/uts-gui-3.png)
+![enter image description here](https://i.ibb.co/xFyrVWV/uts-gui-3.png)
 
 Hasil Edit Data
 
-![enter image description here](https://i.ibb.co/48k9njz/uts-gui-4.png)
+![enter image description here](https://i.ibb.co/mSj4sWk/uts-gui-4.png)
 
 Clear 
 
 Sebelum Edit Data
 
-![enter image description here](https://i.ibb.co/48k9njz/uts-gui-5.png)
+![enter image description here](https://i.ibb.co/FWQH618/uts-gui-5.png)
