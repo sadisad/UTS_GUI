@@ -9,7 +9,7 @@ Tambah Data
 
 Edit Data
 
-![enter image description here](https://i.ibb.co/48k9njz/uts-gui-2.png)
+![enter image description here](https://i.ibb.co/MZ7GyGp/uts-gui-2.png)
 
 Ganti Nama dan Jurusan
 
