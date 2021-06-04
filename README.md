@@ -24,3 +24,7 @@ Clear
 Sebelum Edit Data
 
 ![enter image description here](https://i.ibb.co/t4ZHDgT/image.png)
+
+Setelah Clear Data
+
+![enter image description here](https://i.ibb.co/Q6nBjG8/uts-gui-6.png)
