@@ -23,4 +23,4 @@ Clear
 
 Sebelum Edit Data
 
-![enter image description here](https://i.ibb.co/FWQH618/uts-gui-5.png)
+![enter image description here](https://i.ibb.co/t4ZHDgT/image.png)
