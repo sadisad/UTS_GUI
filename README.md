@@ -7,4 +7,5 @@ Tambah Data
 
 ![enter image description here](https://i.ibb.co/48k9njz/uts-gui-1.png)
 
+Edit Data
 ![enter image description here](https://i.ibb.co/48k9njz/uts-gui-2.png)
