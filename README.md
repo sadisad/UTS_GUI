@@ -1,1 +1,1 @@
-# UTS_GUI
+# UTS Pemrograman GUI
