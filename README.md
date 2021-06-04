@@ -28,3 +28,13 @@ Sebelum Edit Data
 Setelah Clear Data
 
 ![enter image description here](https://i.ibb.co/Q6nBjG8/uts-gui-6.png)
+
+Hapus
+
+Sebelum Hapus Data
+
+![enter image description here](https://i.ibb.co/9qPPCn0/uts-gui-7.png)
+
+Setelah Hapus Data
+
+![enter image description here](https://i.ibb.co/9Y6xtG8/uts-gui-8.png)
