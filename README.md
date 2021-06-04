@@ -38,3 +38,9 @@ Sebelum Hapus Data
 Setelah Hapus Data
 
 ![enter image description here](https://i.ibb.co/9Y6xtG8/uts-gui-8.png)
+
+## 2. Perbaiki Codingan
+
+![enter image description here](https://i.ibb.co/n0ZrX4B/68747470733a2f2f692e6962622e636f2f323376325071332f696d6167652e706e67.png)
+
+Di codingan itu ada kesalahan indentasi pada line 16, sehingga perlu dihapus untuk indentasi pada line 16 agar bisa berjalan dengan baik
