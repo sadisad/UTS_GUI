@@ -20,6 +20,7 @@ Hasil Edit Data
 ![enter image description here](https://i.ibb.co/48k9njz/uts-gui-4.png)
 
 Clear 
+
 Sebelum Edit Data
 
 ![enter image description here](https://i.ibb.co/48k9njz/uts-gui-5.png)
